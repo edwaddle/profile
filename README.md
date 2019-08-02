@@ -17,7 +17,7 @@ This profile was built to showcase my achievments in coding and hacking as well 
 
 Prank website:
 I've created a bunch of javascript pranks. Check out one of them here:
-- [Who are you, Idiot?](https://idiot.netlify.com/)
+- [What are you, Idiot?](https://idiot.netlify.com/)
 Others are available as code files [here](/webpranks)
 
 ### Additional tricks
