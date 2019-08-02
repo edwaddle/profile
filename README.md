@@ -4,9 +4,9 @@ This profile was built to showcase my achievments in coding and hacking as well 
 
 ### What I used while hacking
 
--Terminal( Getting into ip's, finding hidden files, downloading any softwares to help, creating backdoors into other users desktops)
--Python(Downloading videos in mp3 or mp4 format, decoding encryption, and making a key logger to find history of other's keyboard inputs.)
--javascript(Learn how to make a website with functions, can be used to create pranks, may be able to steal information.)
+- Terminal( Getting into ip's, finding hidden files, downloading any softwares to help, creating backdoors into other users desktops)
+- Python(Downloading videos in mp3 or mp4 format, decoding encryption, and making a key logger to find history of other's keyboard inputs.)
+- javascript(Learn how to make a website with functions, can be used to create pranks, may be able to steal information.)
 
 ### Some of the projects that ive worked on:
 Cipher in python:
