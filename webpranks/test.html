@@ -1,0 +1,33 @@
+<html>
+<head>
+  <audio id="myAudio">
+    <source src="sounds/HEY.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  </head>
+<body>
+<button onclick="playAudio()" type="button">Play Audio</button>
+<img src="images/giphy.gif"  width="120%" height="120%" style=” display:none” id="theImage">
+<a id="showImage">Show image</a>
+
+<script>
+document.getElementById("showImage").onclick = function() {
+    document.getElementById("theImage").style.visibility = "visible";
+}</script>
+<style>
+  #theImage { visibility: hidden; }
+</style>
+
+    <script>
+    var x = document.getElementById("myAudio");
+
+    function playAudio() {
+      x.play();
+    }
+    </script>
+
+
+  <h1>yes</h1>
+  
+</body>
+</html>
