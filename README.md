@@ -9,17 +9,17 @@ This profile was built to showcase my achievments in coding and hacking as well 
 - javascript(Learn how to make a website with functions, can be used to create pranks, may be able to steal information.)
 
 ### Some of the projects that ive worked on:
-Cipher in python:
--
+**Python Projects**
+- Morse code explained [here](morse.md)
+- Caesar Cipher explained [here](caesar.md)
+- Youtube Downloader explained [here](ytdl.md)
+- Keylogger explained [here](keylogger.md)
+
 Prank website:
--
--
--
-keylogger in python:
-- (url)
-Morse code in python explained [here](morse.md)
-Downoad files from youtube in python:
-- (url)
+I've created a bunch of javascript pranks. Check out one of them here:
+- [Who are you, Idiot?](https://idiot.netlify.com/)
+Others are available as code files [here](/webpranks)
+
 ### Additional tricks
 Lock picking:
 -(Url)
@@ -30,14 +30,12 @@ Big 2:
 - List
 
 ### Terminal/ shellcommands
-1. Cd - change directory
-2. ls - list the items in directory, options can be added such as -a,lF,etc.
-3. Nano - writing in a file
-4. Cat - viewing a file
-5. ssh - get into another ip
-6. sudo - supercomputer/ godmode and lets you do anything
+1. alias
+```
+write command here
+```
+2. rm -rf
+3. sudo gives you powers
 
-### Acheivment
+### Achievement
 hi
-
-

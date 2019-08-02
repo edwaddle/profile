@@ -25,28 +25,42 @@ then you set cipher to nothing because you have't receive the message yet:
 ```
 cipher = ' '
 ```
-Then you make a for loop which repeats a loop a certain time in which we are using to loop letter for each word:
+Then you make a for loop which repeats a loop a certain time in which we are using to loop letter for each word. Check if there is a letter by make a if else statement. If the message letter in not equal to space, then do this actionIf the next letter is a space, then do this:
 ```
 for letter in message:
 ```
-Next check if there is a letter by make a if else statement. If the message letter in not equal to space, then do this action:
-`if letter != ' ':`
-If the letter isin't a space, then go to the dictionary, find the letter,  add it to cipher, and add a space behind it:
+
+```
+if letter != ' ':
+```
+```
+else:
+```
+If the letter isin't a space, then go to the dictionary, find the letter,  add it to cipher, and add a space behind it put this in the if function:
+```
 cipher += MORSE_CODE_DICT[letter] + ' '
-If the next letter is a space, then do this:
-`else:`
-then,write the statement cipher in progress and add the cipher, this command makes it so you print out the word every time you translate a word.
-`print("cipher in progress:  ", cipher)`
+```
+
+Then, write the statement cipher in progress and add the cipher, this command makes it so you print out the word every time you translate a word. Put this in the else function:
+```
+print("cipher in progress:  ", cipher)
+```
 Then do the loop again and set cipher to zero:
-`return cipher`
+```
+return cipher
+```
 That is the end of the if loop
 
 Next you need to be able to receive the message the user wants to encrypt, you use input which takes the user's message and sets it to clear text message, the words in the parentheses just writes a question:
-`cleartextmessage = input("Please enter the text you want to encrypt: ")`
+```
+cleartextmessage = input("Please enter the text you want to encrypt: ")
+```
 
 Then you turn the message into all uppercase and encrypt it using the encrypt function. Set that as secret message and print it:
-`secretmessage = encrypt(cleartextmessage.upper())
-print(secretmessage)`
+```
+secretmessage = encrypt(cleartextmessage.upper())
+print(secretmessage)
+```
 Now you print out the encrypted message.
 
 this is a [hyperlink](https://google.com)
