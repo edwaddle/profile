@@ -17,8 +17,7 @@ Prank website:
 -
 keylogger in python:
 - (url)
-Morse code dictionary in python:
-- (url)
+Morse code in python explained [here](morse.md)
 Downoad files from youtube in python:
 - (url)
 ### Additional tricks
