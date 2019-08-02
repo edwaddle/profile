@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Welcome Edwin's hacker profile
+This profile was built to showcase my achievments in coding and hacking as well as the progress I made during the weeklong camp.
 
-You can use the [editor on GitHub](https://github.com/edwaddle/profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What I used while hacking
 
-### Markdown
+-Terminal( Getting into ip's, finding hidden files, downloading any softwares to help, creating backdoors into other users desktops)
+-Python(Downloading videos in mp3 or mp4 format, decoding encryption, and making a key logger to find history of other's keyboard inputs.)
+-javascript(Learn how to make a website with functions, can be used to create pranks, may be able to steal information.)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+### Some of the projects that ive worked on:
+Cipher in python:
+-
+Prank website:
+-
+-
+-
+keylogger in python:
+- (url)
+Morse code dictionary in python:
+- (url)
+Downoad files from youtube in python:
+- (url)
+### Additional tricks
+Lock picking:
+-(Url)
+Big 2:
+-(Url)
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
+### Terminal/ shellcommands
+1. Cd - change directory
+2. ls - list the items in directory, options can be added such as -a,lF,etc.
+3. Nano - writing in a file
+4. Cat - viewing a file
+5. ssh - get into another ip
+6. sudo - supercomputer/ godmode and lets you do anything
 
-**Bold** and _Italic_ and `Code` text
+### Acheivment
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edwaddle/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
